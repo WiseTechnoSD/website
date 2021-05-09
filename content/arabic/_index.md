@@ -6,7 +6,7 @@ banner:
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
   button:
     enable : true
-    label : "Contact With Us"
+    label : "Contact Us"
     link : "contact"
 
 ##################### Feature ##########################
@@ -20,27 +20,27 @@ feature:
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Object Oriented"
-      icon : "fas fa-object-group"
+    - name : "Android Apps"
+      icon : "fab fa-android"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "24h Service"
-      icon : "fas fa-user-clock"
+    - name : "IOS Apps"
+      icon : "fab fa-apple"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
     - name : "Value For Money"
-      icon : "fas fa-heart"
+      icon : "fas fa-wallet"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Faster Response"
-      icon : "fas fa-tachometer-alt"
+    - name : "Web Sites"
+      icon : "far fa-window-restore"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Cloud Support"
+    - name : "Cloud / Backend / API"
       icon : "fas fa-cloud"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
@@ -51,7 +51,7 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "The most advanced software solutions and cutting edge technologies"
       images:
       - "images/service-1.png"
       - "images/service-2.png"
