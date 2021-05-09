@@ -1,0 +1,65 @@
+# main menu
+[[main]]
+name = "الرئيسية"
+url = "/"
+weight = 1
+
+[[main]]
+name = "المقالات"
+url = "blog"
+weight = 2
+
+[[main]]
+name = "الأسعار"
+url = "pricing"
+weight = 3
+
+[[main]]
+name = "للتواصل"
+url = "contact"
+weight = 4
+
+[[main]]
+name = "أسئلة متكررة"
+url = "faq"
+weight = 5
+
+# footer menu left
+[[footer_left]]
+name = "About Us"
+url = "#"
+
+[[footer_left]]
+name = "إبدأ الآن"
+url = "#"
+
+[[footer_left]]
+name = "الأسعار"
+url = "pricing"
+
+
+# footer menu middle
+[[footer_middle]]
+name = "الأسعار"
+url = "pricing"
+
+[[footer_middle]]
+name = "Platform"
+url = "#"
+
+[[footer_middle]]
+name = "الميزات"
+url = "#"
+
+# footer menu right
+[[footer_right]]
+name = "سياسة الخصوصية"
+url = "privacy-policy"
+
+[[footer_right]]
+name = "اللوائح والشروط"
+url = "terms-conditions"
+
+[[footer_right]]
+name = "الأسئلة المتكررة"
+url = "faq"

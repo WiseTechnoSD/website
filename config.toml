@@ -1,0 +1,4 @@
+baseURL = "https://wisetechno.io/"
+languageCode = "en-us"
+title = "WiseTechno"
+publishDir = "docs"
