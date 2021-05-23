@@ -1,59 +1,59 @@
 ---
 title: "Pricing"
-subtitle: ""
+subtitle: "These are estimated prices"
 # meta description
 description: "This is meta description"
 draft: false
 
 basic:
-  name : "Basic Plan"
-  price: "$49"
-  price_per : "month"
-  info : "Best For Small Individuals"
+  name : "WebSites"
+  price: "$500"
+  price_per : "site"
+  info : "Starting prices"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+  - "Static websites"
+  - "Dynamic websites"
+  - "WordPress sites"
   button:
-    enable : true
+    enable : false
     label : "Get started for free"
     link : "#"
     
 professional:
-  name : "Professional Plan"
-  price: "$49"
-  price_per : "month"
-  info : "Best For Professionals"
+  name : "Mobile Apps"
+  price: "$2000"
+  price_per : "application"
+  info : "Starting price"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
-  - "Cloud Service"
-  - "Best Dashboard"
+  - "IOS applications"
+  - "Android applications"
+  - "Applications cloud services"
+  - "Custom features"
   button:
-    enable : true
+    enable : False
     label : "Get started for free"
     link : "#"
     
 business:
-  name : "Business Plan"
-  price: "$49"
-  price_per : "month"
-  info : "Best For Large Individuals"
+  name : "Backend Solutions"
+  price: "$2000"
+  price_per : "project"
+  info : "Starting price"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+  - "API development"
+  - "Database solutions"
+  - "Cloud services"
+  - "Analytics & BI"
   button:
-    enable : true
+    enable : false
     label : "Get started for free"
     link : "#"
 
 call_to_action:
   enable : true
-  title : "Need a larger plan?"
+  title : "Need a more details ?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "Above prices are approximate and to obtain more details, please feel free contact us. Contact as as well to discuss other software solutions."
   button:
     enable : true
     label : "Contact Us"

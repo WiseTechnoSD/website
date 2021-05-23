@@ -1,12 +1,12 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website <br> development challenges"
+  title : "Let us solve your critical software <br> development challenges"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "WiseTechno Helps other companies and organizations to build <br> advanced software systems and business applications"
   button:
     enable : true
-    label : "Contact With Us"
+    label : "Contact Us"
     link : "contact"
 
 ##################### Feature ##########################
@@ -17,33 +17,32 @@ feature:
     # feature item loop
     - name : "Clean Code"
       icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Our solutions follow standard development methodologies and provides stable and easy to maintain products"
       
     # feature item loop
-    - name : "Object Oriented"
-      icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Android Apps"
+      icon : "fab fa-android"
+      content : "WiseTechno can help you to develop your Android mobile applications. All our applications are fast, stable and attractive"
       
     # feature item loop
-    - name : "24h Service"
-      icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "IOS Apps"
+      icon : "fab fa-apple"
+      content : "WiseTechno can help you to develop your IOS mobile applications. All our applications are fast, stable and attractive"
       
     # feature item loop
     - name : "Value For Money"
-      icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      icon : "fas fa-wallet"
+      content : "We provide the best prices in the market, for the high quality products we develop"
       
     # feature item loop
-    - name : "Faster Response"
-      icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Web Sites"
+      icon : "far fa-window-restore"
+      content : "WiseTechno can help you to develop your Websites. All our products are fast, stable and attractive"
       
     # feature item loop
-    - name : "Cloud Support"
+    - name : "Cloud / Backend / API"
       icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
+      content : "WiseTechno provides other cloud solutions for your databases, APIs, and all other backend services"
 
 
 ######################### Service #####################
@@ -51,7 +50,7 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "The most advanced software solutions and cutting edge technologies"
       images:
       - "images/service-1.png"
       - "images/service-2.png"
