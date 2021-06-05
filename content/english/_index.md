@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical software <br> development challenges"
+  title : " us solve your critical software <br> development challenges"
   image : "images/banner-art.svg"
   content : "WiseTechno Helps other companies and organizations to build <br> advanced software systems and business applications"
   button:
@@ -31,7 +31,7 @@ feature:
       
     # feature item loop
     - name : "Value For Money"
-      icon : "fas fa-wallet"
+      icon : "fas fa-wal"
       content : "We provide the best prices in the market, for the high quality products we develop"
       
     # feature item loop
