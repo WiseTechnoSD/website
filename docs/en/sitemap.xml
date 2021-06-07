@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://wisetechno.io/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="en"
                 href="https://wisetechno.io/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/blog/post-1/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
@@ -30,9 +27,7 @@
                 hreflang="en"
                 href="https://wisetechno.io/blog/post-1/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/blog/post-4/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
@@ -45,9 +40,7 @@
                 hreflang="en"
                 href="https://wisetechno.io/blog/post-4/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/blog/post-5/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
@@ -60,9 +53,7 @@
                 hreflang="en"
                 href="https://wisetechno.io/blog/post-5/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/blog/post-6/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
@@ -75,9 +66,7 @@
                 hreflang="en"
                 href="https://wisetechno.io/blog/post-6/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/blog/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
@@ -90,9 +79,7 @@
                 hreflang="en"
                 href="https://wisetechno.io/blog/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/blog/post-2/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
@@ -105,9 +92,7 @@
                 hreflang="en"
                 href="https://wisetechno.io/blog/post-2/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/blog/post-3/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
@@ -120,9 +105,7 @@
                 hreflang="en"
                 href="https://wisetechno.io/blog/post-3/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -134,9 +117,7 @@
                 hreflang="en"
                 href="https://wisetechno.io/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -148,9 +129,7 @@
                 hreflang="en"
                 href="https://wisetechno.io/contact/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/faq/</loc>
     <xhtml:link
                 rel="alternate"
@@ -162,9 +141,7 @@
                 hreflang="en"
                 href="https://wisetechno.io/faq/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/pricing/</loc>
     <xhtml:link
                 rel="alternate"
@@ -176,9 +153,7 @@
                 hreflang="en"
                 href="https://wisetechno.io/pricing/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -190,9 +165,7 @@
                 hreflang="en"
                 href="https://wisetechno.io/privacy-policy/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -204,9 +177,7 @@
                 hreflang="en"
                 href="https://wisetechno.io/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/terms-conditions/</loc>
     <xhtml:link
                 rel="alternate"
@@ -219,5 +190,4 @@
                 href="https://wisetechno.io/terms-conditions/"
                 />
   </url>
-  
 </urlset>

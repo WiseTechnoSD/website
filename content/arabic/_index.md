@@ -16,34 +16,40 @@ feature:
   title : "اشياء يجب ان تعرفها"
   feature_item:
     # feature item loop
-    - name : "كود نظيف"
+    - name : "كود صحيح"
       icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "
+تتبع حلولنا منهجيات التطوير القياسية وتوفر منتجات مستقرة وسهلة الصيانة"
       
     # feature item loop
     - name : " android تطبيقات"
       icon : "fab fa-android"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Android وايز تكنو تساعدك علي تطوير وتحسين تطبيقات 
+      ،وجعل كل تطبيقاتك سريعة ونشيطية"
       
     # feature item loop
     - name : "IOS تطبيقات"
       icon : "fab fa-apple"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "ISO وايز تكنو تساعدك علي تطوير وتحسين تطبيقات نظام
+      ،وجعل كل تطبيقاتك سريعة ونشيطية"
+      
+      
       
     # feature item loop
     - name : "قيمة المال"
       icon : "fas fa-wal"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "نحن نوفر السعر الأفضل في سوق العمل ، للمنتجات عالية الجودة "
       
     # feature item loop
     - name : "موقع الكتروني"
       icon : "far fa-window-restore"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "وايز تكنو تساعدك على تطوير موقعك الالكتروني ، وتجعله سريعا ونشطا"
       
     # feature item loop
     - name : "Cloud / Backend / API"
       icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "
+يوفر وايز تكنو حلولًا سحابية أخرى لقواعد البيانات وواجهات برمجة التطبيقات وجميع خدمات الأسترجاع الأخرى"
       
 
 
@@ -70,7 +76,8 @@ service:
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
         enable : true
-        label : "Check it out"
+        label : "
+تحقق من ذلك"
         link : "#"
         
     # service item loop
@@ -80,7 +87,7 @@ service:
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
         enable : true
-        label : "Check it out"
+        label : "تحقق من ذلك"
         link : "#"
         
     # service item loop
@@ -90,7 +97,7 @@ service:
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
         enable : true
-        label : "Check it out"
+        label : "تحقق من ذلك"
         link : "#"
         
 ################### Screenshot ########################
@@ -104,7 +111,7 @@ screenshot:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "هل انت مستعد للبدأ ؟"
+  title : "هل انت مستعد للبدء ؟"
   image : "images/cta.svg"
   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
   button:

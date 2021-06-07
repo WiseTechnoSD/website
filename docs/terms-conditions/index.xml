@@ -6,10 +6,6 @@
     <description>Recent content in Terms of Service on Wise Techno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)</copyright>
-    
-	<atom:link href="https://wisetechno.io/terms-conditions/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)</copyright><atom:link href="https://wisetechno.io/terms-conditions/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
