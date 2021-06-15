@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://wisetechno.io/ar/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="ar"
                 href="https://wisetechno.io/ar/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/ar/blog/post-1/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
@@ -30,9 +27,7 @@
                 hreflang="ar"
                 href="https://wisetechno.io/ar/blog/post-1/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/ar/blog/post-4/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
@@ -45,9 +40,7 @@
                 hreflang="ar"
                 href="https://wisetechno.io/ar/blog/post-4/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/ar/blog/post-5/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
@@ -60,9 +53,7 @@
                 hreflang="ar"
                 href="https://wisetechno.io/ar/blog/post-5/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/ar/blog/post-6/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
@@ -75,24 +66,7 @@
                 hreflang="ar"
                 href="https://wisetechno.io/ar/blog/post-6/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://wisetechno.io/ar/blog/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wisetechno.io/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://wisetechno.io/ar/blog/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/ar/blog/post-2/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
@@ -105,9 +79,7 @@
                 hreflang="ar"
                 href="https://wisetechno.io/ar/blog/post-2/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/ar/blog/post-3/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
@@ -120,9 +92,20 @@
                 hreflang="ar"
                 href="https://wisetechno.io/ar/blog/post-3/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://wisetechno.io/ar/blog/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wisetechno.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://wisetechno.io/ar/blog/"
+                />
+  </url><url>
     <loc>https://wisetechno.io/ar/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -134,9 +117,43 @@
                 hreflang="ar"
                 href="https://wisetechno.io/ar/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://wisetechno.io/ar/privacy-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wisetechno.io/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://wisetechno.io/ar/privacy-policy/"
+                />
+  </url><url>
+    <loc>https://wisetechno.io/ar/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wisetechno.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://wisetechno.io/ar/tags/"
+                />
+  </url><url>
+    <loc>https://wisetechno.io/ar/terms-conditions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wisetechno.io/terms-conditions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://wisetechno.io/ar/terms-conditions/"
+                />
+  </url><url>
     <loc>https://wisetechno.io/ar/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -148,9 +165,7 @@
                 hreflang="ar"
                 href="https://wisetechno.io/ar/contact/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/ar/faq/</loc>
     <xhtml:link
                 rel="alternate"
@@ -162,9 +177,7 @@
                 hreflang="ar"
                 href="https://wisetechno.io/ar/faq/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wisetechno.io/ar/pricing/</loc>
     <xhtml:link
                 rel="alternate"
@@ -177,47 +190,4 @@
                 href="https://wisetechno.io/ar/pricing/"
                 />
   </url>
-  
-  <url>
-    <loc>https://wisetechno.io/ar/privacy-policy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wisetechno.io/privacy-policy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://wisetechno.io/ar/privacy-policy/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://wisetechno.io/ar/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wisetechno.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://wisetechno.io/ar/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://wisetechno.io/ar/terms-conditions/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wisetechno.io/terms-conditions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://wisetechno.io/ar/terms-conditions/"
-                />
-  </url>
-  
 </urlset>

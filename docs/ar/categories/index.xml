@@ -6,10 +6,6 @@
     <description>Recent content in Categories on Wise Technology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)</copyright>
-    
-	<atom:link href="https://wisetechno.io/ar/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)</copyright><atom:link href="https://wisetechno.io/ar/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

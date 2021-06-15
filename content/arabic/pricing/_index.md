@@ -1,61 +1,61 @@
 ---
-title: "Pricing"
+title: "الأسعار"
 subtitle: ""
 # meta description
 description: "This is meta description"
 draft: false
 
 basic:
-  name : "Basic Plan"
+  name : "خطة اساسية"
   price: "$49"
-  price_per : "month"
-  info : "Best For Small Individuals"
+  price_per : "شهر"
+  info : "افضل لاصحاب الدخل المنخفض"
   services:
-  - "Express Service"
+  - "خدمة سريعة"
   - "Customs Clearance"
   - "Time-Critical Services"
   button:
     enable : true
-    label : "Get started for free"
+    label : "ابدأ مجانًا"
     link : "#"
     
 professional:
-  name : "Professional Plan"
+  name : "خطة محترف"
   price: "$49"
-  price_per : "month"
-  info : "Best For Professionals"
+  price_per : "شهر"
+  info : "افضل للمحترفين"
   services:
-  - "Express Service"
+  - "خدمة سريعة"
   - "Customs Clearance"
   - "Time-Critical Services"
   - "Cloud Service"
   - "Best Dashboard"
   button:
     enable : true
-    label : "Get started for free"
+    label : "ابدأ مجانًا"
     link : "#"
     
 business:
-  name : "Business Plan"
+  name : "خطة عمل"
   price: "$49"
-  price_per : "month"
-  info : "Best For Large Individuals"
+  price_per : "شهر"
+  info : "افضل لأصحاب الدخل العالي"
   services:
-  - "Express Service"
+  - "خدمة سريعة"
   - "Customs Clearance"
   - "Time-Critical Services"
   button:
     enable : true
-    label : "Get started for free"
+    label : "ابدأ مجانًا"
     link : "#"
 
 call_to_action:
   enable : true
-  title : "Need a larger plan?"
+  title : "هل تحتاج لخطة اكبر ؟"
   image : "images/cta.svg"
   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
   button:
     enable : true
-    label : "Contact Us"
+    label : "اتصل بنا"
     link : "contact"
 ---
